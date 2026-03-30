@@ -4,11 +4,11 @@
 
 整个系统由三大核心部分组成：**前端界面**、**微服务后端**、**代码沙箱**。
 
-1、https://github.com/LiuJialin1319/YesOJ-frontend-master
+1、https://github.com/LinG139/YesOJ-frontend-master
 
-2、https://github.com/LiuJialin1319/YesOJ-backend-microservice
+2、https://github.com/LinG139/YesOJ-backend-microservice
 
-3、https://github.com/LiuJialin1319/YesOJ-code-sandbox
+3、https://github.com/LinG139/YesOJ-code-sandbox
 
 ---
 
